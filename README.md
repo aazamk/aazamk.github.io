@@ -1,1 +1,0 @@
-# aazamk.github.io
