@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
- - line: New Delhi, 110025
-  - line: India
+  -line: New Delhi, 110025
+  -line: India
 
 # Credits content
 credit: aazamkhan976@gmail.com<br /> MN:- +91-8800702170/ 7982050806
