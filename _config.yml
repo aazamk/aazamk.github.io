@@ -1,7 +1,7 @@
 # Site settings
 title: Mohd Azam Khan
 email: aazamkhan976@gmail.com
-url: https://example.github.io
+url:  https://github.com/aazamk
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -40,15 +40,17 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/Aazam976
+    title: linkedIn
+    url: https://www.linkedin.com/in/aazamk1/
   - title: facebook
-    url:
+    url: https://www.facebook.com/aazam976
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://stackoverflow.com/users/3080307/aazam
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/aazamk
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +58,7 @@ address:
   - line: New Delhi, India.
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: aazamkhan976@gmail.com <br /> MN: +91-8800702170/7982050806
 
 # Build settings
 markdown: kramdown
