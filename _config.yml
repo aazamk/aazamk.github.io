@@ -1,7 +1,7 @@
 # Site settings
-title: Mohd. Azam
-email: aazamkhan976@gmail.com
-url: https://github.com/aazamk
+title: Freelancer
+email: your-email@domain.com
+url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -35,27 +35,28 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  credits: Contact
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/Aazam976
+    url: http://twitter.com/jekyllrb
   - title: facebook
-    url: https://www.facebook.com/aazam976
+    url:
   - title: stack-overflow
-    url: https://stackoverflow.com/users/3080307/aazam
-  
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/Aazam976
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  -line: New Delhi, 110025
-  -line: India
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Credits content
-credit: aazamkhan976@gmail.com<br /> MN:- +91-8800702170/ 7982050806
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
