@@ -2,12 +2,17 @@
 layout: default
 title: myClove
 modal-id: 3
-date: 2014-07-16
 img: clove.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: April 2017
+client: Star Dental Centre Private Limited
+category: Mobile Development
+description: myClove' is an App for all user from Star Dental Centre Pvt. Ltd. / Clove Dental. Clove Dental is the largest dental chain in India with a presence in North, West & South India.
+This App can assist :
+Doctor's add, view, edit, delete & track clinic expenses via a simple intuitive interface.
+To view their own schedule across clinics for a better time and patient management.
+Use as an internal communication platform for information sharing. Get real-time notifications to help you remember important work/ appointment. Get announcements, videos, messages and much more.
+Access contact list of Clovers and connect with other Clovers to chat, share images, docs, audio, and video. Use the search option to find a post, document, video, an audio or a person you are trying to connect.
+Communicate with your relevant groups, based on the area of your work.
 
 ---
