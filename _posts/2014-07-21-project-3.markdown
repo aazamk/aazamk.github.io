@@ -4,7 +4,7 @@ title: myClove
 modal-id: 13
 img: clove.png
 alt: image-alt
-project-date: April 2017
+project-date: April 2014
 client: Star Dental Centre Private Limited
 category: Mobile Development
 description: myClove' is an App for all user from Star Dental Centre Pvt. Ltd. / Clove Dental. Clove Dental is the largest dental chain in India with a presence in North, West & South India.
