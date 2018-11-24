@@ -38,13 +38,12 @@ h6 {
 
 hr.star-light,
 hr.star-primary {
-    margin: 25px auto 30px;
+    margin: 20px auto 40px;
     padding: 0;
     max-width: 250px;
     border: 0;
     border-top: solid 5px;
     text-align: center;
-    overflow: visible;
 }
 
 hr.star-light:after,
@@ -64,11 +63,11 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #24;
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #244;
 }
 
 hr.star-primary:after {
@@ -182,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #244;
 }
 
 @media(max-width:767px) {
@@ -248,7 +247,7 @@ section.success {
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
-        margin: 0 0 30px;
+        margin: 0 0 70px;
     }
 }
 
@@ -455,3 +454,10 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+/* Custom */
+.left5 { margin-left:5px; }
+.right5 { margin-right:5px; }
+.top10 { margin-top:10px; }
+.bottom40 { margin-bottom:40px; }
