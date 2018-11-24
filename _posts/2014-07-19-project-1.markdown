@@ -2,7 +2,7 @@
 layout: default
 title: GoldCleats Pro
 short-description: Gain Exposure to Top Youth Talent!
-modal-id: 11
+modal-id: 1
 img: golcleats_pro.png
 alt: image-alt
 
