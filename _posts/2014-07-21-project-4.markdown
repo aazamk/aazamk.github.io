@@ -6,7 +6,19 @@ modal-id: 3
 img: clove.png
 alt: Clove Dental
 company: Star Dental Centre Private Limited.
-skills: Java, Android Architecture component ,Linkedin SDK, Facebook SDK, Facebook Graph API, Realm Database, Socket-programming.
-description: GoldCleats is an amazing sports app that helps you discover players from the whole world or to be discovered by agents and scouts. Create your profile and share your soccer skills with ease!<br/><br/>CREATE YOUR PROFILE & SHARE YOUR SKILLS<br/>This sports app is created as the number one youth soccer platform with players from over 181 countries. Offering you the most effortless and efficient way to share your soccer highlights and skills, and be noticed from other users of the app. On this app, you can easily create your own soccer profile. On your profile, you can upload, edit and share your soccer skills and video highlights for everyone to see.<br/><br/>DISCOVER PLAYERS & GET DISCOVERED<br/>On this amazing soccer app, you can discover other soccer players from the whole world, view their profiles and see their soccer skills and highlights. Aside from discovering other players, the app is allowing you to get discovered by other people, as agents, scouts, coaches, clubs, colleges, and other people that are using the app.<br/><br/>   •   Easy to use youth soccer platform<br/>   •   Create your profile<br/>   •   Upload, edit, and share soccer skills and video highlights<br/>   •   Discover soccer players from the whole world<br/>   •   Get discovered by agents, scouts and other users<br/>   •   Go viral and match footage.
+skills: Java, Android Architecture component, Realm Database, Socket-programming.
+description: 'myClove' is an App for all user from Star Dental Centre Pvt. Ltd. / Clove Dental. Clove Dental is the largest dental chain in India with a presence in North, West & South India.
+
+This App can assist :
+
+Doctor's add, view, edit, delete & track clinic expenses via a simple intuitive interface.
+
+To view their own schedule across clinics for a better time and patient management. 
+
+Use as an internal communication platform for information sharing. Get real-time notifications to help you remember important work/ appointment. Get announcements, videos, messages and much more.
+
+Access contact list of Clovers and connect with other Clovers to chat, share images, docs, audio, and video. Use the search option to find a post, document, video, an audio or a person you are trying to connect.
+
+Communicate with your relevant groups, based on the area of your work.
 
 ---

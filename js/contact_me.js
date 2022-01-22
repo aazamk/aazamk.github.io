@@ -53,7 +53,7 @@ $(function() {
             // })
 
             $.ajax({
-                url: "https://formspree.io/rahul_garg@outlook.com", 
+                url: "https://formspree.io/aazamk@outlook.com", 
                 method: "POST",
                 data: {
                     name: name,
