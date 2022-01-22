@@ -2,7 +2,7 @@
 layout: default
 title: VaSi
 short-description: ToDo application
-modal-id: 5
+modal-id: 3
 img: vasi.png
 alt: image-alt
 skills: Java, Android Architecture component, Realm Database, Material Design, InApp-Billing, FirebaseDatabase.

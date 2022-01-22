@@ -2,23 +2,9 @@
 layout: default
 title: Clove Dental
 short-description: Gain Exposure to Top Youth Talent!
-modal-id: 3
+modal-id: 4
 img: clove.png
 alt: Clove Dental
 company: Star Dental Centre Private Limited.
 skills: Java, Android Architecture component, Realm Database, Socket-programming.
 description: 'myClove' is an App for all user from Star Dental Centre Pvt. Ltd. / Clove Dental. Clove Dental is the largest dental chain in India with a presence in North, West & South India.
-
-This App can assist :
-
-Doctor's add, view, edit, delete & track clinic expenses via a simple intuitive interface.
-
-To view their own schedule across clinics for a better time and patient management. 
-
-Use as an internal communication platform for information sharing. Get real-time notifications to help you remember important work/ appointment. Get announcements, videos, messages and much more.
-
-Access contact list of Clovers and connect with other Clovers to chat, share images, docs, audio, and video. Use the search option to find a post, document, video, an audio or a person you are trying to connect.
-
-Communicate with your relevant groups, based on the area of your work.
-
----
