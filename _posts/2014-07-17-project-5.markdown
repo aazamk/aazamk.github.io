@@ -1,0 +1,31 @@
+---
+layout: default
+title: VaSi
+short-description: ToDo application
+modal-id: 5
+img: vasi.png
+alt: image-alt
+skills: Java, Android Architecture component, Realm Database, Material Design, InApp-Billing, FirebaseDatabase.
+description: What if we had a personal assistant, an extension of our own minds, that helped us keep track of what matters to us? An aide that prompts us with the right information, exactly when we needed it, at the right time, place and situation? What if we had a trusted, safe, way to bring all that matters to us, into the moment when it matters? VaSi is that way. I built VaSi because I was looking for such an aide. As an entrepreneur and a mom, I often find myself dealing with a flood of information and decisions that would sometimes keep me from focusing on what really matters. I built VaSi to help me, and all of us, be mindful in everything we do. It is an extension of our mind, an app that unobtrusively tracks what matters to us and gently reminds us when and where we need to be reminded.
+
+• Capture what matters to you. Whether it is a recipe, an idea for travel, a tip for improving something, a life goal, a new year's resolution, a promise made to a loved one, or just a to-do list. We call these dots, little pieces of our mind, bits of our lives. Add tags to organize your dots or thoughts.
+
+• Add reminders to dots. 
+
+• Be reminded on a certain day. At a certain time. At many times.
+
+• Be reminded at a certain place. A shop, a cafe, a place of worship. Remember to do something there, to bring something from there, to get something done there that you love, or to not do something you've regretted.
+VaSi uses the Background Location feature with your permission to enable you to do this. 
+
+• Be reminded when you meet someone, of all that you want to remember to tell them. And the way you want to be when you meet. Or the mistakes you can't make. What you wanted to achieve, and what you wanted to avoid.
+
+• Be reminded when you have free-time, of that certain important goal, or the fun respite. That workout you wanted to do, that movie you wanted to see, that spa you love to visit, that meditation, that daily reflection, or weekly, or monthly.
+
+• Share your dots with loved ones, friends or colleagues. Save and use the dots that others share with your own tags and reminders.
+
+• Capture moments that matter.
+
+Live more fully, more in the moment, be more of you, with VaSi. 
+
+
+---
